@@ -11,9 +11,10 @@ Se solicita:
 Diseñar el diagrama UML de la solución propuesta. Implementar las clases definidas en
 el Diagrama Desarrollado con los métodos que considere necesarios, y una clase
 principal en la que se pueda:
+
 1. Registrar Factura
 2. Listar Facturas
- . Salir      
+3. Salir      
 
 
 
